@@ -1,4 +1,13 @@
 /* Estilização externa */
+
+
+/* display flex */
+header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
 a {
     color: red;
     font: bolder;
