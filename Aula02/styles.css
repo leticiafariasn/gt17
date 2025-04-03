@@ -1,0 +1,7 @@
+/* Estilização externa */
+a {
+    color: red;
+    font: bolder;
+    font-size: 14px;
+    cursor: help;
+}
